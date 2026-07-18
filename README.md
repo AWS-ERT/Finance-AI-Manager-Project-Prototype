@@ -1,5 +1,5 @@
 # Finance AI Manager
-A desktop AI-powered personal finance manager built with Python and PySide6.
+A desktop AI-powered personal finance manager built with Python and PySide6. (P.S only Finance-
 ## Features
 - AI financial assistant (Claude)
 - Expense tracking
