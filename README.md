@@ -1,0 +1,15 @@
+# Finance AI Manager
+A desktop AI-powered personal finance manager built with Python and PySide6.
+## Features
+- AI financial assistant (Claude)
+- Expense tracking
+- CSV bank import
+- Investment dashboard
+- Analytics
+- Budget assistant
+## Technologies
+- Python
+- PySide6
+- SQLite
+- Anthropic Claude API
+## Installation
