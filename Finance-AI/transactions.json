@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Paycheck",
+        "amount": 2500.0
+    },
+    {
+        "name": "Rent",
+        "amount": -1200.0
+    },
+    {
+        "name": "Groceries",
+        "amount": -95.5
+    },
+    {
+        "name": "guy",
+        "amount": 99.0
+    },
+    {
+        "name": "guy",
+        "amount": -3000.0
+    }
+]

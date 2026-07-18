@@ -1,0 +1,4 @@
+This project is merely a prototype made by Tasty Ibrahim. The point in this project is to implement AI in our daily Financial Needs whether through helping people who are uninformed financially to better their budget, or by helping people reflect on their investments and provide an outside point of rationality.
+To access the example for CSV go to the dashboard, click import CSV, and navigate through the files to the examples folder and try the CSV example.
+Also the Claude API key will be disabeled not allowing you to acess the chatbot as of now.
+To access the system pop-up go into the main.py file and run the code.
